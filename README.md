@@ -1,11 +1,11 @@
 # zooz
 hello welcome My world  
 This code 
-'''C
-#include <stdio.h>
+```C
+#include <stdio.h>  
 
-int main()
-{
-    return 0;
-}
-'''
+int main()  
+{  
+    return 0;  
+}  
+```
