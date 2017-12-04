@@ -1,0 +1,4 @@
+#!/bin/bash
+touch /var/lock/subsys/local
+python /usr/local/shadowsocksr/shadowsocks/server.py -c /usr/local/shadowsocksr/user-config.json -d start
+exit 0
